@@ -157,15 +157,15 @@
   }
 
   .laptopImg {
-    max-width: 80vw;
+    max-width: 300px;
   }
 
   .laptopScreen {
-    width: 59vw;
-    height: 37vw;
+    width: 220px;
+    height: 130px;
     position: absolute;
     top: 10px;
-    left: 11.3em;
+    left: 11.6rem;
   }
 
   .phone {
@@ -176,18 +176,18 @@
   }
 
   .phoneFrame {
-    max-width: 50vw;
+    max-width: 200px;
   }
 
   .phoneScreen {
-    width: 44vw;
-    height: 94vw;
+    width: 175px;
+    height: 375px;
     position: absolute;
-    top: 12px;
-    left: -78px;
+    top: 11.5px;
+    left: -79.5px;
   }
 
   .pd1 {
-    max-width: 55%;
+    max-width: 60%;
   }
 }
