@@ -23,12 +23,12 @@ export default function Projects() {
           <h1 className="projectsTitle">Take a look at my projects</h1>
           <div className="project">
               <div className="laptop">
-                <img src={laptopBackground} alt="" />
+                <img src={laptopBackground} alt="" className="laptopImg"/>
                 <div className="laptopScreen">
                   <img src={screenBlog} alt="" className="laptopWebApp" />
                 </div>
               </div>
-            <div className="projectDetails">
+            <div className="projectDetails pd1">
               <h1 className="projectTitle">Blog Web App</h1>
               <p className="projectDescription">
                 Built a personal blog web application using MERN stack. Frontend
